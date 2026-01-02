@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kalana+Sahan;NVQ+L3+Certified+%7C+Pursuing+NVQ+L5;Design+%7C+Video+%7C+Technology;Let's+Create+Something+Amazing!" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kalana%20Sahan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Creative%20Developer%20%26%20Designer&descAlignY=60&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PC%20Sol%20&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Bringing%20Creative%20Ideas%20to%20Life&descAlignY=55&descAlign=50"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=NVQ+L3+Certified+%7C+Pursuing+NVQ+L5;Graphic+Design+%7C+Video+Editing;Web+%26+Mobile+Development;Bringing+Ideas+to+Life!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
 
 > *"I'm a multi-passionate creative and an enthusiastic developer based in Sri Lanka."*
 
-My journey began with a strong foundation in ICT (**NVQ Level 3**), and I am currently advancing my expertise by pursuing **NVQ Level 5**. I thrive on the intersection of visuals and technology—whether it's crafting eye-catching graphics, troubleshooting complex PC issues, or diving into new coding challenges.
+My journey began with a strong foundation in ICT (**NVQ Level 3**), and I am currently advancing my expertise by pursuing **NVQ Level 5**. I thrive on the intersection of visuals and technology—whether it's crafting eye-catching graphics, editing compelling videos, troubleshooting complex PC issues, or diving into new coding challenges.
 
 **🎯 Core Focus Areas:**
 `Graphic Design` | `Video Editing` | `Web & Mobile Dev` | `PC Hardware Solutions`
