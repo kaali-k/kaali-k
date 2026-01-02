@@ -4,11 +4,20 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=NVQ+L3+Certified+%7C+Pursuing+NVQ+L5;Graphic+Design+%7C+Video+Editing;Web+%26+Mobile+Development;Bringing+Ideas+to+Life!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=NVQ+L3+Certified+%7C+Pursuing+NVQ+L5;Graphic+Design+%7C+Video+Editing;Web+%26+Mobile+Development;PC+Hardware+%26+Software+Solutions" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaali-k&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
 <br/>
+
+---
 
 ### 👨‍💻 **About Me**
 
@@ -37,33 +46,35 @@ My journey began with a strong foundation in ICT (**NVQ Level 3**), and I am cur
 
 </div>
 
-<br/>
+---
 
-### 🛠️ **Hardware & Content Creation**
-* **Hardware:** Troubleshooting, OS Installation, Network Setup & Complex PC Solutions.
-* **Content Creation:** Active on Facebook, YouTube & TikTok.
+### 📱 **Content & Socials**
+<div align="center">
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://kaali-k.github.io/kalanasahan-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-20C20E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-### 📊 **GitHub Statistics**
+### 📊 **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaali-k&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaali-k&layout=compact&theme=radical&hide_border=true" height="180"/>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <h3>✨ Ready to see what I can do?</h3>
-  <p>Check out my portfolio for examples of my graphic design, video editing, and code.</p>
-  
-  <a href="https://kaali-k.github.io/kalanasahan-portfolio/">
-    <img src="https://img.shields.io/badge/VISIT%20FULL%20PORTFOLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <br/><br/>
-  
-  <a href="https://github.com/kaali-k">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=kaali-k&label=Profile%20Views&color=red&style=flat-square" alt="kaali-k" />
 </div>
