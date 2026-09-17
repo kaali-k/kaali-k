@@ -1,6 +1,7 @@
 <div align="center">
   
 # 🌟 KALANA SAHAN 🌟
+### ✨ Kaali | Zentix ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;NVQ+Level+3+Certified+%7C+Pursuing+Level+5;Graphic+Design+%7C+Video+Editing+Expert;Web+%26+Mobile+Development+Specialist;PC+Hardware+%26+Software+Solutions)](https://git.io/typing-svg)
 
