@@ -93,10 +93,9 @@ const kalana = {
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kaali-k&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaali-k&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=kaali-k&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaali-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaali-k&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF0000&line=FF0000&point=FFFFFF" />
+<img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaali-k&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
 
 </div>
 
