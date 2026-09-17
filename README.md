@@ -164,10 +164,10 @@ education = {
 
 | Service | Description | Status |
 |---------|-------------|--------|
-| 💻 **Web & Mobile Development** | AI-Assisted Full Stack Apps, Landing Pages | ✅ Available |
-| 🎨 **Digital Media (General)** | Social Media Content, Basic Video & Photo Edits | ✅ Available |
-| 🚀 **Tech Consulting** | System Architecture, Workflow Automation | ✅ Available |
-| 🔧 **IT & PC Solutions** | Hardware Troubleshooting, Software Setup | ✅ Available |
+| 🤖 **AI-Powered Development** | Full-Stack Web & Mobile Apps, AI Workflows | ✅ Available |
+| 🎨 **UI/UX & Digital Media** | App Prototyping, Social Media Creatives, Video Assembly | ✅ Available |
+| 🚀 **Tech & Business Consulting**| System Architecture, Workflow Automation, Management | ✅ Available |
+| 🔧 **IT & Hardware Solutions** | PC Troubleshooting, Software & OS Configuration | ✅ Available |
 
 </div>
 
