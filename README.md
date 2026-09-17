@@ -107,11 +107,11 @@ const kalana = {
 
 <div align="center">
 
-| 🎨 Graphic Design | 🎥 Video Editing | 💻 Web Development | 📱 Mobile Apps | 🔧 PC Solutions |
-|:-:|:-:|:-:|:-:|:-:|
-| Logo Design | Motion Graphics | Responsive Sites | Cross-platform | Hardware Repair |
-| Brand Identity | Color Grading | Modern UI/UX | Native Features | Software Setup |
-| Print Design | Video Effects | Web Animation | App Publishing | Troubleshooting |
+| 🤖 AI-Powered Development | 🎨 Digital Media & UI | 🚀 Product & Business | 🔧 IT Solutions |
+|:-:|:-:|:-:|:-:|
+| Full-Stack Apps (Web & Mobile) | UI/UX Prototyping | System Architecture | Hardware & OS Troubleshooting |
+| AI Prompt Engineering & Logic | General Video & Graphic Editing | Project Management | Software Setup & Maintenance |
+| Rapid Prototyping | Social Media Content Creation | Scaling 'Zentix' Ecosystem | Tech Support & Solutions |
 
 </div>
 
@@ -164,11 +164,10 @@ education = {
 
 | Service | Description | Status |
 |---------|-------------|--------|
-| 🎨 **Graphic Design** | Logo, Branding, Social Media Posts | ✅ Available |
-| 🎥 **Video Editing** | YouTube Videos, Commercials, Short Films | ✅ Available |
-| 💻 **Web Development** | Responsive Websites, Landing Pages | ✅ Available |
-| 📱 **Mobile Apps** | Android/iOS Applications | ✅ Available |
-| 🔧 **PC Solutions** | Hardware Repair, Software Installation | ✅ Available |
+| 💻 **Web & Mobile Development** | AI-Assisted Full Stack Apps, Landing Pages | ✅ Available |
+| 🎨 **Digital Media (General)** | Social Media Content, Basic Video & Photo Edits | ✅ Available |
+| 🚀 **Tech Consulting** | System Architecture, Workflow Automation | ✅ Available |
+| 🔧 **IT & PC Solutions** | Hardware Troubleshooting, Software Setup | ✅ Available |
 
 </div>
 
