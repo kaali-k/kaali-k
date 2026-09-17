@@ -15,20 +15,21 @@
 ```typescript
 const kalana = {
     location: "Sri Lanka 🇱🇰",
-    title: "Multi-Passionate Creative & Developer",
+    title: "AI-Powered Full Stack Developer & Creative Designer",
+    role: "Founder @ Zentix",
     education: {
         current: "NVQ Level 5 (In Progress)",
         completed: "NVQ Level 3 - ICT"
     },
     passions: [
+        "Architecting systems & coding with AI",
+        "Building modern web & mobile apps",
         "Crafting eye-catching graphics",
         "Editing compelling videos", 
-        "Building modern web & mobile apps",
-        "Solving complex PC hardware issues",
-        "Learning new technologies"
+        "Solving complex PC hardware issues"
     ],
-    currentFocus: "Pushing boundaries in design & development",
-    funFact: "I turn coffee into code and creativity ☕✨"
+    currentFocus: "Scaling Zentix & pushing boundaries with AI development",
+    funFact: "I don't just write code; I use AI as my superpower to build anything! 🤖✨"
 };
 ```
 
